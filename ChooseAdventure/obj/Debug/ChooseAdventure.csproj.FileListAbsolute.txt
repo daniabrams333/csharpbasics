@@ -1,0 +1,6 @@
+/Users/danielleabrams/Documents/DotNetDev/ChooseAdventure/ChooseAdventure/bin/Debug/ChooseAdventure.exe
+/Users/danielleabrams/Documents/DotNetDev/ChooseAdventure/ChooseAdventure/bin/Debug/ChooseAdventure.pdb
+/Users/danielleabrams/Documents/DotNetDev/ChooseAdventure/ChooseAdventure/obj/Debug/ChooseAdventure.csproj.AssemblyReference.cache
+/Users/danielleabrams/Documents/DotNetDev/ChooseAdventure/ChooseAdventure/obj/Debug/ChooseAdventure.csproj.CoreCompileInputs.cache
+/Users/danielleabrams/Documents/DotNetDev/ChooseAdventure/ChooseAdventure/obj/Debug/ChooseAdventure.exe
+/Users/danielleabrams/Documents/DotNetDev/ChooseAdventure/ChooseAdventure/obj/Debug/ChooseAdventure.pdb
